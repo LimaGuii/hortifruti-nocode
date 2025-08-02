@@ -17,3 +17,5 @@ Projeto desenvolvido durante as aulas complementares da graduação na *Faculdad
 ---
 
 💡 Desenvolvido como parte do meu aprendizado em ferramentas NoCode e Inteligência Artificial.
+
+![Print da página hortifruti](pagina_hortifruti.jpg)
